@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Track_Player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Track_Player",
+  "parent":{
+    "name":"Enemy_Scripts",
+    "path":"folders/Scripts/Enemy_Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
